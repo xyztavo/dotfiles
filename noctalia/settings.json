@@ -517,7 +517,7 @@
     },
     "wallpaper": {
         "automationEnabled": false,
-        "directory": "/home/xyztavo/.config/wallpaper",
+        "directory": "~/.config/wallpaper",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
